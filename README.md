@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040450
+# Name: Swetha K
+# Date: 17/11/2026
 
 
 # AIM:
@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1920" height="1200" alt="Screenshot 2026-10-14 140848" src="https://github.com/user-attachments/assets/52dab8e3-0c2a-4a1e-a0bd-959e2fe35369" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1902" height="1122" alt="Screenshot 2026-10-27 104858" src="https://github.com/user-attachments/assets/287dcdeb-4b8e-4ecf-83ec-a852684ecf56" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +78,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1920" height="1200" alt="Screenshot 2026-10-30 140035" src="https://github.com/user-attachments/assets/ab8060b5-00c8-4964-a374-480675da6128" />
 
 
 
@@ -88,6 +91,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1920" height="1200" alt="Screenshot 2026-11-04 132914" src="https://github.com/user-attachments/assets/cc773d67-91db-4684-866a-949938aaa42b" />
 
 
 
@@ -106,7 +110,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
+<img width="1920" height="1200" alt="Screenshot 2026-10-21 124315" src="https://github.com/user-attachments/assets/b11fb488-384b-43b9-b157-662bc32afb17" />
 
 
 
@@ -128,6 +132,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1920" height="1200" alt="Screenshot 2026-11-03 103543" src="https://github.com/user-attachments/assets/dce17ae6-ada6-4b69-a9b0-9537f5f96faf" />
 
 
 
@@ -135,4 +140,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
-
